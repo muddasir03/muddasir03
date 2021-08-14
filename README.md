@@ -1,1 +1,3 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<Muddasir03>&theme=<THEME_NAME>" />
+# Hi, I am Muddasir 
+
+## I am a Full Stack Web Developer| MERN Stack
