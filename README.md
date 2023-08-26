@@ -14,8 +14,8 @@ Success in programming often comes from daring to tackle challenges beyond your 
 
 - 🔭 &ensp; I’m currently working on Mobile Application Development (Android, iOS & Cross Platorm)
 - 🌱 &ensp; I'm currently learning React Native, Next JS & more ❤️
-- ⚡ &ensp; Fun fact: I love finding soloutions of problems ⭐
-- 👨‍💻  &ensp; Woring in full stack development from more then a year ✨
+- ⚡ &ensp; Fun fact: I love finding solutions of problems ⭐
+- 👨‍💻  &ensp; Working in full-stack development for more than a year ✨
 
 ### Connect With Me
 
