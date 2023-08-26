@@ -12,8 +12,6 @@
 
 Success in programming often comes from daring to tackle challenges beyond your current expertise and learning as you go.
 
-Skills: Flutter / Android / Kotlin / Swift / Java / MVP / MVVM / Web Services (REST) / Bug Fixing, Unit Testing / Software Design Patterns.
-
 - 🔭 &ensp; I’m currently working on Mobile Application Development (Android, iOS & Cross Platorm)
 - 🌱 &ensp; I'm currently learning React Native, Next JS & more ❤️
 - ⚡ &ensp; Fun fact: I love finding soloutions of problems ⭐
