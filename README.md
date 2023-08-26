@@ -39,6 +39,22 @@ Success in programming often comes from daring to tackle challenges beyond your 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/muddasir03)
 
 <br />
+
+
+<table cellspacing="0" cellpadding="0" style="border:none;">
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=muddasir03&show_icons=true&locale=en" alt=muddasir03" />
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muddasir03&" alt="muddasir03" />
+    </td>
+   </tr>
+</table>
+
+
+<br />
+<br />
 <br />
 
 [website]: https://muddasar-portfolio.netlify.app/
