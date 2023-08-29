@@ -33,14 +33,14 @@ Success in programming often comes from daring to tackle challenges beyond your 
 ### Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=nodejs,react,js,git,github,vscode,bootstrap,electron,express,githubactions,graphql,materialui,mongodb,netlify,nextjs,postman,redux,tailwind,ts,html,css&theme=light)]([https://muddasar-portfolio.netlify.app/])
 
-<br />
+<!-- <br />
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/muddasir03)
 
-<br />
+<br /> -->
 
 
-<table cellspacing="0" cellpadding="0" style="border:none;">
+<!-- <table cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
     <td>
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=muddasir03&show_icons=true&locale=en" alt=muddasir03" />
@@ -49,7 +49,7 @@ Success in programming often comes from daring to tackle challenges beyond your 
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muddasir03&" alt="muddasir03" />
     </td>
    </tr>
-</table>
+</table> -->
 
 
 <br />
