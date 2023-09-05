@@ -2,10 +2,11 @@
 <h3 align="center">Full Stack Developer | MERN Stack Specialist | Next JS & React Native </h3>
 
 <div class="row" align="center">
-    <img src="https://img.shields.io/github/followers/muddasir03?label=Github%20followers&style=for-the-badge" alt="muddasir03" />
+    <img src="https://img.shields.io/github/followers/muddasir03?label=Github%20Followers&style=for-the-badge" alt="muddasir03" />
     <img src="https://img.shields.io/github/stars/muddasir03?label=Github%20stars&style=for-the-badge" alt="muddasir03" />
     <img  src="https://komarev.com/ghpvc/?username=muddasir03&label=Profile Views&color=blue&style=for-the-badge" alt="muddasir03" />
-<!--     <a href="https://www.linkedin.com/in/muddasarhussain/"><img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/muddasarhussain/" alt="muddasir03" /> </a> -->
+
+
 </div>
 
 <br />
