@@ -13,7 +13,7 @@
 
 Success in programming often comes from daring to tackle challenges beyond your current expertise and learning as you go.
 
-- 🔭 &ensp; I’m currently working on Mobile Application Development (Android, iOS & Cross Platorm)
+- 🔭 &ensp; I’m currently working on Mobile Application Development (Android, iOS & Cross Platform)
 - 🌱 &ensp; I'm currently learning React Native, Next JS & more ❤️
 - ⚡ &ensp; Fun fact: I love finding solutions of problems ⭐
 - 👨‍💻  &ensp; Working in full-stack development for more than a year ✨
