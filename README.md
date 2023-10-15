@@ -42,11 +42,11 @@ Success in programming often comes from daring to tackle challenges beyond your 
 <br /> 
 
 
- <table cellspacing="0" cellpadding="0" style="border:none;">
+ <table cellspacing="0" cellpadding="0" style="border:none;" align="center">
   <tr>
-<!--     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=muddasir03&show_icons=true&locale=en" alt=muddasir03" />
-    </td> -->
+    <td>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muddasir03&show_icons=true&locale=en&layout=compact" alt="Muddasar Hussain" height="200px" />
+    </td>
     <td>
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muddasir03&" alt="muddasir03" />
     </td>
