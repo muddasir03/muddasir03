@@ -50,6 +50,7 @@ Success in programming often comes from daring to tackle challenges beyond your 
     <td>
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muddasir03&" alt="muddasir03" />
     </td>
+      <td><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muddasir03&show_icons=true&locale=en" alt="Muddasar Hussain" /></p></td>
    </tr>
 </table> 
 
