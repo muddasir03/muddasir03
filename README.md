@@ -4,9 +4,6 @@
 <div class="row" align="center">
     <img src="https://img.shields.io/github/followers/muddasir03?label=Github%20Followers&style=for-the-badge" alt="muddasir03" />
     <img src="https://img.shields.io/github/stars/muddasir03?label=Github%20stars&style=for-the-badge" alt="muddasir03" />
-    <img  src="https://komarev.com/ghpvc/?username=muddasir03&label=Profile Views&color=blue&style=for-the-badge" alt="muddasir03" />
-
-
 </div>
 
 <br />
