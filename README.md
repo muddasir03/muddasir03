@@ -30,7 +30,7 @@ Success in programming often comes from daring to tackle challenges beyond your 
 <br />
 
 ### Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react,js,git,github,vscode,bootstrap,electron,express,githubactions,graphql,materialui,mongodb,netlify,nextjs,postman,redux,tailwind,ts,html,css&theme=light)]([https://muddasar-portfolio.netlify.app/])
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,js,git,github,vscode,bootstrap,electron,express,graphql,materialui,mongodb,netlify,nextjs,postman,redux,tailwind,ts,html,css&theme=light)]([https://muddasar-portfolio.netlify.app/])
 
 <br />
 
