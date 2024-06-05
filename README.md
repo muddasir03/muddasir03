@@ -19,10 +19,7 @@ Success in programming often comes from daring to tackle challenges beyond your 
 
 [<img align="left" alt="Muddasar Hussain | Website" target="blank" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media" />][website]
 [<img align="left" alt="Muddasar Hussain | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />][mail]
-[<img align="left" alt="Muddasar Hussain | Twitter" width="28px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />][twitter]
 [<img align="left" alt="Muddasar Hussain | Instagram" width="28px" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" />][instagram]
-[<img align="left" alt="Muddasar Hussain | Facebook" width="28px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />][facebook]
-[<img align="left" alt="Muddasar Hussain| Medium" width="28px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />][medium]
 [<img align="left" alt="Muddasar Hussain | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" />][whatsapp]
 [<img align="left" alt="Muddasar Hussain | Linkedin" width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]
 
@@ -38,19 +35,6 @@ Success in programming often comes from daring to tackle challenges beyond your 
 
 <br /> 
 
-
- <table cellspacing="0" cellpadding="0" style="border:none;" align="center">
-  <tr>
-    <td>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muddasir03&show_icons=true&locale=en&layout=compact" alt="Muddasar Hussain" height="200px" />
-    </td>
-    <td>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muddasir03&" alt="muddasir03" />
-    </td>
-   </tr>
-</table> 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muddasir03&show_icons=true&locale=en" alt="Muddasar Hussain" /></p>
-
 <br />
 <br />
 <br />
@@ -62,6 +46,4 @@ Success in programming often comes from daring to tackle challenges beyond your 
 [linkedin]: https://linkedin.com/in/muddasarhussain
 [github]: https://github.com/muddasir03
 [instagram]: https://www.instagram.com/moodijan83
-[facebook]: https://www.facebook.com/mian.mudassar.37669/
-[medium]: https://medium.com/@muddasir03
 [vscode]: https://code.visualstudio.com
