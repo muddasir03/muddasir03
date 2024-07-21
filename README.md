@@ -30,7 +30,7 @@
 ![My Skills](https://skillicons.dev/icons?i=nodejs,react,electron,express,mongodb,nextjs)
 
 ### Tools
-![My Skills](https://skillicons.dev/icons?i=yarn,vscode,tailwind,redux,prisma,postman,npm,notion,netlify,git,github,graphql,figma,docker,discord)
+![My Skills](https://skillicons.dev/icons?i=vscode,tailwind,redux,prisma,postman,npm,notion,netlify,git,github,graphql,figma,docker,discord)
 
 
 
