@@ -1,17 +1,12 @@
-<h1 align="center"> Hi 👋, I'm <a href="https://muddasar-portfolio.netlify.app/">Muddasar Hussain</a></h1>
-<h3 align="center">Full Stack Developer | MERN Stack Specialist | Next JS & React Native </h3>
+<h3>Software Engineer | React JS | NODE JS | React Native </h3>
 
-<div class="row" align="center">
-    <img src="https://img.shields.io/github/followers/muddasir03?label=Github%20Followers&style=for-the-badge" alt="muddasir03" />
+<div class="row">
     <img src="https://img.shields.io/github/stars/muddasir03?label=Github%20stars&style=for-the-badge" alt="muddasir03" />
 </div>
 
 <br />
 
-Success in programming often comes from daring to tackle challenges beyond your current expertise and learning as you go.
-
 - 🔭 &ensp; I’m currently working on Web and Mobile Application Development (Android, iOS & Cross Platform)
-- 🌱 &ensp; I'm currently learning React Native, Next JS & more ❤️
 - ⚡ &ensp; Fun fact: I love finding solutions of problems ⭐
 - 👨‍💻  &ensp; Working in full-stack development for more than a year ✨
 
@@ -26,8 +21,18 @@ Success in programming often comes from daring to tackle challenges beyond your 
 <br />
 <br />
 
-### Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react,js,git,github,vscode,bootstrap,electron,express,graphql,materialui,mongodb,netlify,nextjs,postman,redux,tailwind,ts,html,css&theme=light)]([https://muddasar-portfolio.netlify.app/])
+
+### Languages
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,c,cpp,html,css)]([https://muddasar-portfolio.netlify.app/])
+
+### Technologies
+![My Skills](https://skillicons.dev/icons?i=nodejs,react,electron,express,mongodb,nextjs)
+
+### Tools
+![My Skills](https://skillicons.dev/icons?i=yarn,vscode,tailwind,redux,prisma,postman,npm,notion,netlify,git,github,graphql,figma,docker,discord)
+
+
 
 <br />
 
@@ -35,8 +40,7 @@ Success in programming often comes from daring to tackle challenges beyond your 
 
 <br /> 
 
-<br />
-<br />
+
 <br />
 
 [website]: https://muddasar-portfolio.netlify.app/
@@ -45,5 +49,5 @@ Success in programming often comes from daring to tackle challenges beyond your 
 [twitter]: https://twitter.com/moodijan03
 [linkedin]: https://linkedin.com/in/muddasarhussain
 [github]: https://github.com/muddasir03
-[instagram]: https://www.instagram.com/moodijan83
+[instagram]: https://www.instagram.com/_muddasarhussain
 [vscode]: https://code.visualstudio.com
