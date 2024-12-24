@@ -1,4 +1,3 @@
-![banner](https://github.com/user-attachments/assets/06ac97f1-eac6-43a5-9e38-a81f7d7b085e)
 <h3>Software Engineer | React JS | NODE JS | React Native </h3>
 
 <div class="row">
