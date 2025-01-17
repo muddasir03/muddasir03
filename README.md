@@ -4,11 +4,6 @@
     <img src="https://img.shields.io/github/stars/muddasir03?label=Github%20stars&style=for-the-badge" alt="muddasir03" />
 </div>
 
-<br />
-
-- 🔭 &ensp; I’m currently working on Web and Mobile Application Development (Android, iOS & Cross Platform)
-- ⚡ &ensp; Fun fact: I love finding solutions of problems ⭐
-- 👨‍💻  &ensp; Working in full-stack development for more than a year ✨
 
 ### Connect With Me
 
