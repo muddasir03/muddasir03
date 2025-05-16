@@ -21,12 +21,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,python)]([https://muddasar-portfolio.netlify.app/])
 
-### Technologies
-![My Skills](https://skillicons.dev/icons?i=react,nodejs,rails,express,mongodb,sqlite,mysql,postgres,redis,prisma,graphql)
-
-### Tools
-![My Skills](https://skillicons.dev/icons?i=vscode,postman,notion,git,github,figma,docker,aws)
-
+### Tools & Technologies
+![My Skills](https://skillicons.dev/icons?i=react,nodejs,rails,express,mongodb,sqlite,mysql,postgres,redis,prisma,graphql,vscode,postman,notion,git,github,figma,docker,aws)
 
 
 <br />
@@ -41,7 +37,6 @@
 [website]: https://muddasar-portfolio.netlify.app/
 [whatsapp]: https://wa.me/923114722746
 [mail]: mailto:muddasarhussain739@gmail.com
-[twitter]: https://twitter.com/moodijan03
 [linkedin]: https://linkedin.com/in/muddasarhussain
 [github]: https://github.com/muddasir03
 [instagram]: https://www.instagram.com/_muddasarhussain
