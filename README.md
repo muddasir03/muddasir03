@@ -19,13 +19,13 @@
 
 ### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,python,c,cpp,html,css)]([https://muddasar-portfolio.netlify.app/])
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python)]([https://muddasar-portfolio.netlify.app/])
 
 ### Technologies
-![My Skills](https://skillicons.dev/icons?i=nodejs,react,electron,express,mongodb,nextjs)
+![My Skills](https://skillicons.dev/icons?i=react,nodejs,rails,express,mongodb,sqlite,mysql,postgres,redis,prisma,graphql)
 
 ### Tools
-![My Skills](https://skillicons.dev/icons?i=vscode,tailwind,redux,prisma,postman,npm,notion,netlify,git,github,graphql,figma,docker,discord)
+![My Skills](https://skillicons.dev/icons?i=vscode,postman,notion,git,github,figma,docker,aws)
 
 
 
