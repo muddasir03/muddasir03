@@ -1,9 +1,17 @@
-<h3>Software Engineer | React JS | NODE JS | React Native </h3>
+<h3>Full Stack Engineer | React JS | NODE JS | React Native | Ruby on Rails </h3>
 
 <div class="row">
     <img src="https://img.shields.io/github/stars/muddasir03?label=Github%20stars&style=for-the-badge" alt="muddasir03" />
 </div>
 
+
+<p>
+I’m Muddasar Hussain, a certified Full Stack Software Engineer with around 3 years of real-world experience delivering scalable web and mobile applications across freelance projects and professional roles. 
+
+I specialize in React, Node.js, React Native, Ruby on Rails and have worked across startups and real-world projects, both in product development and client services. I’ve crafted performant frontends and engineered scalable backend systems, developing microservices with Node.js and Ruby on Rails, integrating payment solutions like Stripe and managing third-party services using platforms such as Twilio. 
+
+I’ve also contributed to CI/CD pipelines, mentored junior developers. Passionate about clean architecture, system optimization, and delivering production-ready solutions that solve real-world problems.
+</p>
 
 ### Connect With Me
 
@@ -15,7 +23,6 @@
 
 <br />
 <br />
-
 
 ### Languages
 
