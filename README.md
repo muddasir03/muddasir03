@@ -4,14 +4,17 @@
     <img src="https://img.shields.io/github/stars/muddasir03?label=Github%20stars&style=for-the-badge" alt="muddasir03" />
 </div>
 
-
+<div>
 <p>
-I’m Muddasar Hussain, a certified Full Stack Software Engineer with around 3 years of real-world experience delivering scalable web and mobile applications across freelance projects and professional roles. 
+I’m Muddasar Hussain, a certified Full Stack Software Engineer with 3+ years of real-world experience delivering scalable web and mobile applications across both freelance and professional environments.
 
-I specialize in React, Node.js, React Native, Ruby on Rails and have worked across startups and real-world projects, both in product development and client services. I’ve crafted performant frontends and engineered scalable backend systems, developing microservices with Node.js and Ruby on Rails, integrating payment solutions like Stripe and managing third-party services using platforms such as Twilio. 
+I specialize in React, Node.js, React Native, and Ruby on Rails, with hands-on experience building production-ready solutions for startups, enterprise clients, and service-based companies like Devsinc. I’ve developed high-performance frontends and engineered robust backend systems, including microservices architecture, API integrations, and cloud deployments.
 
-I’ve also contributed to CI/CD pipelines, mentored junior developers. Passionate about clean architecture, system optimization, and delivering production-ready solutions that solve real-world problems.
+My work includes integrating payment platforms like Stripe, implementing communication services through Twilio, and contributing to CI/CD pipelines for automated, reliable delivery. I’ve also mentored junior developers, collaborated in agile cross-functional teams, and consistently focused on clean architecture, system optimization, and scalable design.
+
+Whether it's shipping MVPs or scaling production systems, I bring a problem-solving mindset and technical precision to every project.
 </p>
+</div>
 
 ### Connect With Me
 
