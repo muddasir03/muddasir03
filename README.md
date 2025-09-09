@@ -1,4 +1,4 @@
-<h3>Full Stack Engineer | React JS | NODE JS | React Native | Ruby on Rails </h3>
+<h3>Lead Full-Stack Engineer | Cloud Solutions Architect | SaaS Expert</h3>
 
 <div class="row">
     <img src="https://img.shields.io/github/stars/muddasir03?label=Github%20stars&style=for-the-badge" alt="muddasir03" />
@@ -6,13 +6,20 @@
 
 <div>
 <p>
-I’m Muddasar Hussain, a certified Full Stack Software Engineer with 3+ years of real-world experience delivering scalable web and mobile applications across both freelance and professional environments.
+I'm Muddasar, a seasoned Senior Software Engineer with a wealth of expertise in full-stack web development and cloud solutions, boasting over 5 years of hands-on experience. I bring proven skills in software architecture, design, and consulting, delivering efficiency, revenue growth, scalability, and lasting client success.
 
-I specialize in React, Node.js, React Native, and Ruby on Rails, with hands-on experience building production-ready solutions for startups, enterprise clients, and service-based companies like Devsinc. I’ve developed high-performance frontends and engineered robust backend systems, including microservices architecture, API integrations, and cloud deployments.
+My Full-Stack Developer Skill Set Includes:
 
-My work includes integrating payment platforms like Stripe, implementing communication services through Twilio, and contributing to CI/CD pipelines for automated, reliable delivery. I’ve also mentored junior developers, collaborated in agile cross-functional teams, and consistently focused on clean architecture, system optimization, and scalable design.
+🔷 JavaScript & TypeScript: Strong expertise in both languages for building dynamic, efficient, and maintainable applications.<br />
+⚛️ Frontend Frameworks: Expertise in React and Next.js, specializing in creating responsive, user-friendly interfaces.<br />
+⚙️ Backend Development: Proven experience with Node.js (Express.js) and Ruby on Rails for delivering scalable server-side solutions.<br />
+🗄️ Databases: Proficient in MySQL, PostgreSQL, Redis, MongoDB, and more, with a focus on optimizing database performance.<br />
+🔗 API Development & Integration: Extensive experience building and integrating RESTful and GraphQL APIs, including third-party services such as Stripe and Twilio.<br />
+🤖 AI Integration: Proficient in OpenAI, LangChain, GPT-based tools, chatbot development, and prompt engineering, with hands-on experience delivering AI-powered features in modern applications.<br />
+🐳 DevOps & Tools: Proficient in Git, GitHub, GitLab, Docker, Kubernetes, and Jira, ensuring smooth CI/CD processes and efficient project management.<br />
+☁️ Cloud Solutions: Specialized in designing and deploying end-to-end cloud architecture on AWS, leveraging services such as EC2, S3, RDS, Lambda, ECS/EKS, CloudFront, and IAM.
 
-Whether it's shipping MVPs or scaling production systems, I bring a problem-solving mindset and technical precision to every project.
+Excited to take your project to new heights? I'm available to discuss how my skills align with your goals. Feel free to reach out, I'm ready to collaborate!
 </p>
 </div>
 
