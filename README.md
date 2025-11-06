@@ -1,4 +1,4 @@
-<h3>Lead Full-Stack Engineer | Cloud Solutions Architect | SaaS Expert</h3>
+<h3>Full Stack JavaScript Developer | React, Next.js & Node.js | AWS | Building Scalable SaaS Applications</h3>
 
 <div class="row">
     <img src="https://img.shields.io/github/stars/muddasir03?label=Github%20stars&style=for-the-badge" alt="muddasir03" />
