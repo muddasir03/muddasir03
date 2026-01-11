@@ -1,4 +1,4 @@
-<h3>Full Stack JavaScript Developer | React, Next.js & Node.js | AWS | Building Scalable SaaS Applications</h3>
+<h3>Senior Software Engineer | AI Agents & Automation Specialist | MERN & Ruby on Rails</h3>
 
 <div class="row">
     <img src="https://img.shields.io/github/stars/muddasir03?label=Github%20stars&style=for-the-badge" alt="muddasir03" />
@@ -6,20 +6,21 @@
 
 <div>
 <p>
-I'm Muddasar, a seasoned Senior Software Engineer with a wealth of expertise in full-stack web development and cloud solutions, boasting over 5 years of hands-on experience. I bring proven skills in software architecture, design, and consulting, delivering efficiency, revenue growth, scalability, and lasting client success.
+I'm Muddasar, a Senior Software Engineer specializing in production-grade SaaS infrastructure and AI-driven automation for startups and scaling businesses.
 
-My Full-Stack Developer Skill Set Includes:
+I architect backend-heavy systems using MERN and Ruby on Rails, with deep expertise in deploying AI agents that automate mission-critical operations, customer support, lead qualification, internal workflows, QA, and decision pipelines, all engineered for reliability, scalability, observability, and cost efficiency.
 
-🔷 JavaScript & TypeScript: Strong expertise in both languages for building dynamic, efficient, and maintainable applications.<br />
-⚛️ Frontend Frameworks: Expertise in React and Next.js, specializing in creating responsive, user-friendly interfaces.<br />
-⚙️ Backend Development: Proven experience with Node.js (Express.js) and Ruby on Rails for delivering scalable server-side solutions.<br />
-🗄️ Databases: Proficient in MySQL, PostgreSQL, Redis, MongoDB, and more, with a focus on optimizing database performance.<br />
-🔗 API Development & Integration: Extensive experience building and integrating RESTful and GraphQL APIs, including third-party services such as Stripe and Twilio.<br />
-🤖 AI Integration: Proficient in OpenAI, LangChain, GPT-based tools, chatbot development, and prompt engineering, with hands-on experience delivering AI-powered features in modern applications.<br />
-🐳 DevOps & Tools: Proficient in Git, GitHub, GitLab, Docker, Kubernetes, and Jira, ensuring smooth CI/CD processes and efficient project management.<br />
-☁️ Cloud Solutions: Specialized in designing and deploying end-to-end cloud architecture on AWS, leveraging services such as EC2, S3, RDS, Lambda, ECS/EKS, CloudFront, and IAM.
+Core Expertise:
 
-Excited to take your project to new heights? I'm available to discuss how my skills align with your goals. Feel free to reach out, I'm ready to collaborate!
+⚙️ Backend & Full-Stack (Node.js, Ruby on Rails, React/Next.js) – Scalable SaaS platforms with clean architecture, domain-driven design, and production-ready frontends</br>
+💳 API Development & Integration – Extensive experience building and integrating RESTful and GraphQL APIs, including third-party services such as Stripe and Twilio</br>
+🧠 AI Agents & Automation – Production-ready workflows with state management, guardrails, and human-in-the-loop controls</br>
+🐳 DevOps & Tools – Proficient in Git, GitHub, GitLab, Docker, Kubernetes, and Jira, ensuring smooth CI/CD processes and efficient project management</br>
+☁️ Cloud Infrastructure – AWS-native systems (ECS, Lambda, RDS), Docker, CI/CD, cost-optimized deployments</br>
+
+I partner with teams that value engineering rigor, long-term scalability, and measurable business impact. Whether you're launching a SaaS product, modernizing legacy infrastructure, or embedding AI agents into operational workflows, I deliver solutions that perform under pressure.
+
+📩 Open to collaboration, consulting, and high-impact engineering engagements.
 </p>
 </div>
 
