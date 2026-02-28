@@ -1,4 +1,4 @@
-<h3>Senior Software Engineer | AI Agents & Automation Specialist | MERN & Ruby on Rails</h3>
+<h3>Full Stack Engineer | AI Agents & Automation Specialist | MERN & Ruby on Rails</h3>
 
 <div class="row">
     <img src="https://img.shields.io/github/stars/muddasir03?label=Github%20stars&style=for-the-badge" alt="muddasir03" />
@@ -6,7 +6,7 @@
 
 <div>
 <p>
-I'm Muddasar, a Senior Software Engineer specializing in production-grade SaaS infrastructure and AI-driven automation for startups and scaling businesses.
+I'm Muddasar, a Full Stack Engineer specializing in production-grade SaaS infrastructure and AI-driven automation for startups and scaling businesses.
 
 I architect backend-heavy systems using MERN and Ruby on Rails, with deep expertise in deploying AI agents that automate mission-critical operations, customer support, lead qualification, internal workflows, QA, and decision pipelines, all engineered for reliability, scalability, observability, and cost efficiency.
 
